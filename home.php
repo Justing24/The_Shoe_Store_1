@@ -465,7 +465,7 @@ $no_of_user_products; ?> </span></a>
 <br>
 <br>
 <br>
-<div id="container" class="column">
+
 <h1>Newest Arrivals</h1>
 		
 		<article>
@@ -494,7 +494,7 @@ $no_of_user_products; ?> </span></a>
 
 
 
-</div>
+
 
 <script>
 var slideIndex = 1;
